@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ynsemrzmz
 - 👀 I’m interested in Embedded Systems
-- 🌱 I’m currently learning C++ and Embedded Linux
+- 🌱 I’m currently learning C++ 
 - 📫 How to reach me : emruzmez@gmail.com and https://www.linkedin.com/in/ynsemrzmz/
 
 <!---
