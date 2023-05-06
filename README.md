@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ynsemrzmz
-- 👀 I’m interested in Embedded Systems
+- 👀 I’m interested in Embedded Systems and Hardware Design
 - 📫 How to reach me : emruzmez@gmail.com and https://www.linkedin.com/in/ynsemrzmz/
 
 <!---
